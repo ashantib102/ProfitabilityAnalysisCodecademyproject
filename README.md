@@ -1,0 +1,1 @@
+This was the final project for the BI Dashboards with Power BI course I took on Codecademy. It helped me better understand how to join data from tables, create visuals to analyze them and the way information should be laid out on the dashboard.
